@@ -18,23 +18,4 @@ This repository contains Colab notebooks and run artifacts for exploring **TimeG
 ### 3. Relational Deep Learning (RDL) and RelBench
 - **GNN-Based Tabular Prediction**: Train a Graph Neural Network (GNN) for tabular prediction using RelBench, with a focus on evaluating model performance metrics.
 
-## Repository Structure
 
-```plaintext
-.
-├── TimeGPT/
-│   ├── Multivariate_Forecasting.ipynb
-│   ├── Long_Horizon_Forecasting.ipynb
-│   ├── Fine_Tuning_TimeGPT.ipynb
-│   ├── Anomaly_Detection.ipynb
-│   ├── Energy_Forecasting.ipynb
-│   └── Bitcoin_Prediction.ipynb
-│
-├── Tabula9/
-│   ├── Synthetic_Data_Generation.ipynb
-│   └── Zero_Shot_Inference.ipynb
-│
-├── Relational_Deep_Learning/
-│   └── GNN_Tabular_Prediction_RelBench.ipynb
-│
-└── README.md
